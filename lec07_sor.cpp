@@ -22,7 +22,7 @@ void colorize(const pcl::PointCloud<pcl::PointXYZ> &pc, pcl::PointCloud<pcl::Poi
 int main() {
     pcl::PointCloud<pcl::PointXYZ>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZ>);
     
-    std::string path = "/home/jihyun/sor/gachon_hall.pcd";
+    std::string path = "/home/jihyun/sor/AI_7F.pcd";
     // Load input PCD file
     if (pcl::io::loadPCDFile<pcl::PointXYZ>(path, *cloud) == -1) {
         PCL_ERROR("Couldn't read input PCD file.\n");
@@ -67,7 +67,7 @@ int main() {
         }
     }
     
-    std::string output = "/home/jihyun/sor/result/gachon_hall.png";
+    std::string output = "/home/jihyun/sor/result/AI_7F.png";
     cv::imshow("2D Projection", projection_image);
     cv::waitKey(0);
     cv::imwrite(output, projection_image);
