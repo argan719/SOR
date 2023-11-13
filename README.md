@@ -6,7 +6,7 @@ https://github.com/LimHyungTae/pcl_tutorial
 
 ### Compile
 
-~/sor/build$ cmake ..
+~/sor/build$ cmake .. <br>
 ~/sor/build$ make
 
 ### 실행
