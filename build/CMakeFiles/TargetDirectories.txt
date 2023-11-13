@@ -1,0 +1,3 @@
+/home/jihyun/sor/build/CMakeFiles/rebuild_cache.dir
+/home/jihyun/sor/build/CMakeFiles/edit_cache.dir
+/home/jihyun/sor/build/CMakeFiles/lec07_sor.dir
