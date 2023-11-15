@@ -14,8 +14,8 @@ https://github.com/LimHyungTae/pcl_tutorial
 ~/sor/build$ ./lec07_sor
 
 
-
-z축 자르는 거랑 이미지로 저장하는 거 다 합친 코드. <br>
+SOR로 노이즈 제거 후 <br>
+z축 제거해서 2D 이미지로 저장. <br>
 Make 파일 만들어서 sor 하나만 CMake로 돌아가도록 만듦.
 
 Input: pcd <br>
