@@ -28,5 +28,10 @@ Output: point cloud visualization, 2d_projection.png
 
 
 
-
+Result <br>
+(Before/ After)
+<img width="613" alt="image" src="https://github.com/argan719/SOR/assets/64789601/1c30fa74-ef9f-452f-a082-de2318f6d840">
+<img width="613" alt="image" src="https://github.com/argan719/SOR/assets/64789601/3372c4f8-9c57-4111-ad80-f33225581e4c">
+<img width="612" alt="image" src="https://github.com/argan719/SOR/assets/64789601/7256ebf6-ff7b-4de3-a2c6-13cee7ff2015">
+<img width="612" alt="image" src="https://github.com/argan719/SOR/assets/64789601/15a1b076-d305-4d92-8265-1461ca7e0856">
 
