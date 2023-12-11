@@ -27,7 +27,7 @@ Input: pcd <br>
 Output: point cloud visualization, 2d_projection.png
 
 
-
+<br>
 Result <br>
 (Before/ After) <br>
 <img width="613" alt="image" src="https://github.com/argan719/SOR/assets/64789601/1c30fa74-ef9f-452f-a082-de2318f6d840">
